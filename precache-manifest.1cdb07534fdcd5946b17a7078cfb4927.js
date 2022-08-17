@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "441c6a107f80cdfbf666",
-    "url": "/paint_company/static/css/main.77b1dcb3.chunk.css"
+    "revision": "b0cf348f707b18352541",
+    "url": "/paint_company/static/css/main.b2322cf5.chunk.css"
   },
   {
-    "revision": "441c6a107f80cdfbf666",
-    "url": "/paint_company/static/js/main.441c6a10.chunk.js"
+    "revision": "b0cf348f707b18352541",
+    "url": "/paint_company/static/js/main.b0cf348f.chunk.js"
   },
   {
-    "revision": "1af302f4bdedd31671fc",
-    "url": "/paint_company/static/js/1.1af302f4.chunk.js"
+    "revision": "a7891e4797b78b158bb3",
+    "url": "/paint_company/static/js/1.a7891e47.chunk.js"
   },
   {
     "revision": "ce8b15fc3390e2a739a6",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/paint_company/static/media/callaction.c6e06ca0.png"
   },
   {
-    "revision": "6b5b999caec5686eeb339a609ca1373c",
+    "revision": "265555b8a4f051c58aec044ab0574f2d",
     "url": "/paint_company/index.html"
   }
 ];
